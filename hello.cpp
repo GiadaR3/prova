@@ -13,13 +13,16 @@ while(i<=4){
     }
 
 }
-    
+    std::cout<<prova<< '\n';
     std::cout<<result<< '\n'
     int a =0;
     std::cin>> a;
     std::cout<< a <<'\n';
     //commento
     //commentoooooooooooooooooo
-    // chissaaaaaaaaaaaaaaaaaaaaaaaaa12
+    /*1
+    2
+    1*/
+    
 
 }
