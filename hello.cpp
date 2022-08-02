@@ -19,5 +19,7 @@ while(i<=4){
     std::cin>> a;
     std::cout<< a <<'\n';
     //commento
+    //commentoooooooooooooooooo
+    // chissaaaaaaaaaaaaaaaaaaaaaaaaa
 
 }
